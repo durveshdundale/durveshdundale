@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @durveshdundale
+- 👋 Hi, I’m @durvesh IT 
 - 👀 I’m interested in Ethical Hacking
 - 🌱 I’m currently learning IT Infra
 - 💞️ I’m looking to collaborate on Hacker 
